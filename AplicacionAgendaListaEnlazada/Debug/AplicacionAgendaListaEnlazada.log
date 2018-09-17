@@ -1,0 +1,4 @@
+﻿  AplicacionAgendaListaEnlazada.cpp
+c:\users\sasuk\source\repos\aplicacionagendalistaenlazada\aplicacionagendalistaenlazada\aplicacionagendalistaenlazada.cpp(468): warning C4551: la llamada a la función no tiene lista de argumentos
+c:\users\sasuk\source\repos\aplicacionagendalistaenlazada\aplicacionagendalistaenlazada\aplicacionagendalistaenlazada.cpp(413): warning C4715: 'solicitarCambio': no todas las rutas de acceso de control devuelven un valor
+  AplicacionAgendaListaEnlazada.vcxproj -> C:\Users\sasuk\source\repos\AplicacionAgendaListaEnlazada\Debug\AplicacionAgendaListaEnlazada.exe
